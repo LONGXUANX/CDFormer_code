@@ -62,7 +62,7 @@ code_root/
 #### Pre-Trained Model Weights
 
 - DINOv2 ViTL/14 model: click [here](https://github.com/facebookresearch/dinov2) to download. Please put it in model_pt/dinov2
-- The pre-training weights we provide on COCO (It is recommended to train by yourself. Replacing with [CDFormer_beifen.py] may result in higher metrics, but fine-tuning epochs may not be consistent with the current setting): click [here](https://pan.baidu.com/s/1eoe9dkjNlqeQ75aD5PNLOA?pwd=w628) to download(百度网盘).
+- The pre-training weights we provide on COCO (It is recommended to train by yourself. Replacing with [CDFormer_beifen.py] may result in higher metrics, but fine-tuning epochs may not be consistent with the current setting): click [here](https://pan.baidu.com/s/1Tir7jsN1t2HF4sNL5X1DMg?pwd=qzdb) to download(百度网盘).
 - You can download our weights and directly conduct the w/o FT test, no need to finetune, as an open-set object detection task!
 
 ### Base Training
